@@ -1,4 +1,16 @@
 # subspace-tool 备注:中文文档在下方
+
+## Install requie
+The substrateinterface is office python SDK by polkadot 
+https://polkadot.network/
+
+```python
+pip install substrateinterface
+pip install csv
+```
+
+
+
 ## The tool func list
 
 
