@@ -1,5 +1,11 @@
 # subspace-tool 😃备注:中文文档在下方😜
 
+👀打赏地址🎉
+
+ETH:  0x414649f34a10A7ae6744A0A1410f272aF8b9090b
+subsapce(tssc 3h): stAntuYDQsTiaU1pVrj5U6CZjyzbjHgdJWfz3pnobkwTpZXUS
+
+
 ## Install requie
 The substrateinterface is office python SDK by polkadot 
 if you want to konw more about polkaot,click ↓↓↓↓
@@ -151,8 +157,27 @@ if __name__ == '__main__':
 
 
 ```
+
 # ==========================================================================================
 # 中文文档
+
+👀打赏地址🎉
+
+ETH:  0x414649f34a10A7ae6744A0A1410f272aF8b9090b
+subsapce(tssc 3h): stAntuYDQsTiaU1pVrj5U6CZjyzbjHgdJWfz3pnobkwTpZXUS
+
+## 安装前准备-需要安装下面命令安装第三方库
+The substrateinterface 是波卡(polkaot)官方维护的第三方python库
+如果你想知道更多关于波卡的信息，请点击下方链接 ↓↓↓↓
+
+✨ polkadot web link    https://polkadot.network/
+
+
+
+```python
+pip install substrate-interface
+pip install csv
+```
 ## 功能清单
 
 ## 1、创建地址
