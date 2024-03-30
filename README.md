@@ -1,8 +1,8 @@
 # subspace-tool
-## The tool func have
+## The tool func list
 
 
-1、creat a new address 
+## 1、creat a new address 
 
 ```python
 
@@ -51,7 +51,7 @@ if __name__ == '__main__':
     creat_new_address(1)
 
 
-2、get adress balance
+## 2、get adress balance
 
 ```python
 
@@ -86,7 +86,7 @@ if __name__ == '__main__':
 
 ```
 
-3、tranfer your Tssc(3h) assest
+## 3、tranfer your Tssc(3h) assest
 ```python
 
 from substrateinterface import SubstrateInterface, Keypair
