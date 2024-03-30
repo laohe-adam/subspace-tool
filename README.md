@@ -2,9 +2,9 @@
 
 👀打赏地址🎉
 
-ETH:  0x414649f34a10A7ae6744A0A1410f272aF8b9090b
+ETH:  ```0x414649f34a10A7ae6744A0A1410f272aF8b9090b```
 
-subsapce(tssc 3h): stAntuYDQsTiaU1pVrj5U6CZjyzbjHgdJWfz3pnobkwTpZXUS
+subsapce(tssc 3h):```stAntuYDQsTiaU1pVrj5U6CZjyzbjHgdJWfz3pnobkwTpZXUS```
 
 
 ## Install requie
@@ -164,9 +164,9 @@ if __name__ == '__main__':
 
 👀打赏地址🎉
 
-ETH:  0x414649f34a10A7ae6744A0A1410f272aF8b9090b
+ETH: ``` 0x414649f34a10A7ae6744A0A1410f272aF8b9090b```
 
-subsapce(tssc 3h): stAntuYDQsTiaU1pVrj5U6CZjyzbjHgdJWfz3pnobkwTpZXUS
+subsapce(tssc 3h):``` stAntuYDQsTiaU1pVrj5U6CZjyzbjHgdJWfz3pnobkwTpZXUS```
 
 ## 安装前准备-需要安装下面命令安装第三方库
 The substrateinterface 是波卡(polkaot)官方维护的第三方python库
