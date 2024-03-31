@@ -19,7 +19,7 @@ def transer(mnemonic, recipient_address, transfer_amount, url=None):
 
     recipient_address = recipient_address
 
-    amount = transfer_amount * 10 ** 18
+    amount = int(transfer_amount * (10 ** 18))
 
     call = substrate.compose_call(
         call_module="Balances",
