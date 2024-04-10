@@ -232,7 +232,7 @@ if __name__ == '__main__':
     # 参数为需要创建多少地址
     # 可以通过save_file_name参数更改默认保存的csv文件
     creat_new_address(1)
-
+```
 ## 2、查看余额
 
 ```python
@@ -258,7 +258,7 @@ def get_balance(wallet_address: str) -> float:
         return balance
     except:
         print(f'Erro with Get Balance,Maybe Close VPN or install and update your liabrary')
-
+```
 
 if __name__ == '__main__':
     # 下面的填入你的地址即可
