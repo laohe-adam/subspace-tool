@@ -73,9 +73,9 @@ def creat_new_address(creat_number: int, url: str = None,save_file_name:str = No
 
 if __name__ == '__main__':
     creat_new_address(1)
+```
 
-
-# 2、get adress balance
+## 2、get adress balance
 
 ```python
 
