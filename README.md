@@ -75,7 +75,7 @@ if __name__ == '__main__':
     creat_new_address(1)
 
 
-## 2、get adress balance
+# 2、get adress balance
 
 ```python
 
